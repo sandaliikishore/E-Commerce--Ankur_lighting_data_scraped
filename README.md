@@ -90,6 +90,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or support, please contact:
-- Email: [sandali.kishore03@gmail.com]
+- Email: [sandali.kishore08@gmail.com]
 - GitHub: [sandaliikishore]
 
