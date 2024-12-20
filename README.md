@@ -66,7 +66,7 @@ pip install requests beautifulsoup4 pandas
    python main.py
    ```
 
-4. View the results in the generated `ankurL2.csv` file.
+4. View the results in the generated `ankur_lighting_data.csv` file.
 
 ## Data Fields
 
